@@ -1,24 +1,5 @@
-# todo-list
 
-## Project setup
-```
-npm install
-```
+step 1 - install all the packages  --- npm i       
+step 2 - start application(the app is running on http://localhost:8080/)  --- npm run serve       
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+please make sure the app is running the http://localhost:8080/, otherwise there will be CORS error! 
